@@ -2,7 +2,7 @@
 ✔ schinese  
 ✔ german
 
-# Untranslated strings by file
+# Number of untranslated strings per file
 | File | tch | fre | ita | jap | kor | pol | por | bra | rus | spa | ukr | vie |
 |:- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | `../platform/servers/serverbrowser` | ✔ | 24 | ✔ | ✔ | 24 | 24 | ✔ | 186 | ✔ | 24 | 186 | 186 |
