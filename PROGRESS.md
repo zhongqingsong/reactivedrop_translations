@@ -1,6 +1,6 @@
 # Fully translated languages
-* schinese
-* german
+✔ schinese  
+✔ german
 
 # Untranslated strings by file
 | File | tch | fre | ita | jap | kor | pol | por | bra | rus | spa | ukr | vie |
