@@ -3,7 +3,7 @@
 ✔ german  
 
 # Number of untranslated strings per file
-| File | tch | fre | ita | jap | kor | por | bra | rus | spa | ukr | vie |
+| File | [tch](# "tchinese") | [fre](# "french") | [ita](# "italian") | [jap](# "japanese") | [kor](# "korean") | [por](# "portugese") | [bra](# "brazilian") | [rus](# "russian") | [spa](# "spanish") | [ukr](# "ukrainian") | [vie](# "vietnamese") |
 |:- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [../platform/servers/serverbrowser](/platform/servers) | ✔ | 24 | ✔ | ✔ | 24 | ✔ | 186 | ✔ | 24 | 186 | 186 |
 | [../platform/vgui](/platform) | ✔ | 93 | ✔ | 37 | 93 | 93 | 184 | ✔ | 93 | 184 | 184 |
