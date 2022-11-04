@@ -19,6 +19,7 @@
 
 # Non curated languages
 These languages have not been substantially updated since the start of the Reactive Drop translation project.  
+If you are fluent in one of these (or the ones above) and would like to contribute, don't hesitate to ask for directions :)  
 ❌ czech  
 ❌ danish  
 ❌ dutch  
